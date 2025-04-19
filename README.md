@@ -20,3 +20,8 @@ to run the os in qemu run
 ```bash
 make run
 ```
+
+
+# deprecation warning!
+
+this os has been abonded! this is because issues. and this repo will be archived
